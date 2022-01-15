@@ -1,0 +1,25 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "title": "Buy Pizza",
+      "date": "Jan 3 2022",
+      "finished": false,
+      "editing": false
+    },
+    {
+      "id": 2,
+      "title": "Buy More Pizza",
+      "date": "Jan 3 2022",
+      "finished": false,
+      "editing": false
+    },
+    {
+      "id": 3,
+      "title": "Buy More Pizza",
+      "date": "Jan 3 2022",
+      "finished": false,
+      "editing": false
+    }
+  ]
+}
